@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "image": "https://img.freepik.com/premium-photo/3d-monster-steampunk-cartoon-character-with-robotic-body_784625-531.jpg?size=626&ext=jpg&ga=GA1.2.1852776297.1692374315&semt=ais",
+        "title": "Gaming Laptop",
+        "price": 335
+    },
+    {
+        "id": 2,
+        "image": "https://img.freepik.com/premium-photo/small-creepy-yellowblue-monster-looks-surprised-cartoon-style-blue-background-three-eyes-fantasy-creature-teeth-spikes-high-resolution-art-generative-artificial-intelligence_661108-4595.jpg?size=626&ext=jpg",
+        "title": "Macbook M1 Air",
+        "price": 450
+    },
+    {
+        "id": 3,
+        "image": "https://img.freepik.com/premium-photo/cartoon-monster-with-colorful-hair-big-eyes-sitting-table-generative-ai_771703-40464.jpg?size=626&ext=jpg&ga=GA1.2.1852776297.1692374315&semt=ais",
+        "title": "PlayStation 5 Console",
+        "price": 200
+    },
+    {
+        "id": 4,
+        "image": "https://img.freepik.com/premium-photo/illustration-mix-cyberpunk-steampunk-monster-3d-design-with-half-robot-body-parts_784625-2789.jpg?size=626&ext=jpg&ga=GA1.2.1852776297.1692374315&semt=ais",
+        "title": "Macbook M1 Air",
+        "price": 450
+    },
+    {
+        "id": 5,
+        "image": "https://img.freepik.com/premium-photo/illustration-cartoon-cute-monsters-isolated-background-created-with-generative-ai-technology_67092-5329.jpg?size=626&ext=jpg&ga=GA1.2.1852776297.1692374315&semt=ais",
+        "title": "PlayStation 5 Console",
+        "price": 200
+    },
+    {
+        "id": 6,
+        "image": "https://img.freepik.com/premium-photo/illustration-cartoon-cute-monsters-isolated-background-created-with-generative-ai-technology_67092-5265.jpg?size=626&ext=jpg&ga=GA1.2.1852776297.1692374315&semt=ais",
+        "title": "Macbook M1 Air",
+        "price": 450
+    },
+    {
+        "id": 7,
+        "image": "https://img.freepik.com/premium-photo/illustration-mix-cyberpunk-steampunk-monster-3d-design-with-half-robot-body-parts_784625-1012.jpg?size=626&ext=jpg",
+        "title": "PlayStation 5 Console",
+        "price": 200
+    }
+    
+]

@@ -1,0 +1,16 @@
+.tf-r-bg-blob{
+    height:550px;
+    width: 550px;
+    background-color: var(--bg-blob);
+    filter: blur(160.58px);
+    position: absolute;
+    z-index:-99;
+    left:20%;
+    top:10%;
+    transform: translate(-50%);}
+
+.abzar{
+        font-size:72px;
+    font-weight: 600;
+    line-height: 72px;
+    }

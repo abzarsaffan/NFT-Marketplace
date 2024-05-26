@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(209,204,204);
+}
+.templateContainer{
+    margin: 5% 0;
+    width: 1000px; 
+    height: 500px; 
+    
+    
+    
+}
+    
+
+.templateContainer > .searchInput_Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin : 0 auto;
+   
+   
+
+}
+.templateContainer > .searchInput_Container input{
+    width: 50%;
+    padding: 10px;
+    outline: none;
+    width: 30px; 
+    height: auto; 
+   
+}
+.templateContainer .template_Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 30px; 
+    height: auto; 
+  
+}
+.templateContainer .template_Container .template{
+    background-color: white;
+    margin: 30px;
+    padding: 0px 20px;
+    width: 30px; 
+    height: auto; 
+    
+}
+.templateContainer .template_Container .template img{
+    width: 100px; 
+  height: auto; 
+   
+}
+
+
+.abzar {
+    margin: 0 px; /* Add horizontal margin of 10px and no vertical margin */
+  }
+  
+  .template img {
+    max-width: 100 ;
+  
+     /* Ensure images fit within their container */
+  }

@@ -1,0 +1,28 @@
+/* Footer.css */
+
+.footer {
+    
+    color: #131212;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .social-icons {
+    margin-bottom: 20px;
+  }
+  
+  .social-icons a {
+    color: #141212;
+    font-size: 24px;
+    margin: 0 10px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .social-icons a:hover {
+    color: #00aced;
+  }
+  
+  p {
+    font-size: 14px;
+  }
+  
